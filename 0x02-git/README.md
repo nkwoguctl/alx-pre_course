@@ -1,1 +1,1 @@
-A Readme file for the git foundationals
+A Readme file for the git foundationals and collaboration
